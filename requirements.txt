@@ -1,0 +1,16 @@
+SpeechRecognition
+PyAudio
+pyttsx3
+PyAutoGUI
+requests
+feedparser
+comtypes
+pycaw
+screen-brightness-control
+Send2Trash
+psutil
+word2number
+sounddevice
+vosk
+win10toast
+ollama
